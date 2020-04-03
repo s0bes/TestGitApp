@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello World!\nThis is the first steps to knowing the GitHub.\n";
+    std::cout << "Whooops. Here is small edit to the project.";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
