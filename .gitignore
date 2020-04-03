@@ -1,0 +1,7 @@
+#Ignore Debug Folder
+Debug/
+
+#Ignore all vcc project files
+*.vcxproj*
+
+
